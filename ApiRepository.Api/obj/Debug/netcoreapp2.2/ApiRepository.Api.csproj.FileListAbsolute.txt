@@ -1,0 +1,12 @@
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\obj\Debug\netcoreapp2.2\ApiRepository.Api.csproj.CoreCompileInputs.cache
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\obj\Debug\netcoreapp2.2\ApiRepository.Api.AssemblyInfoInputs.cache
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\obj\Debug\netcoreapp2.2\ApiRepository.Api.AssemblyInfo.cs
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\bin\Debug\netcoreapp2.2\ApiRepository.Api.deps.json
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\bin\Debug\netcoreapp2.2\ApiRepository.Api.dll
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\bin\Debug\netcoreapp2.2\ApiRepository.Api.pdb
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\obj\Debug\netcoreapp2.2\ApiRepository.Api.csprojAssemblyReference.cache
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\obj\Debug\netcoreapp2.2\ApiRepository.Api.csproj.CopyComplete
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\obj\Debug\netcoreapp2.2\ApiRepository.Api.dll
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\ApiRepository.Api\obj\Debug\netcoreapp2.2\ApiRepository.Api.pdb

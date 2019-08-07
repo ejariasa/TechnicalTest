@@ -1,0 +1,57 @@
+﻿@model EmployeeViewModel
+@{
+
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <form asp-controller="Home" asp-action="GetEmployee" method="get">
+        <div class="form-actions no-color">
+            <p>
+                Find Employee by Id:
+                <input type="text" asp-for="IdFilter" />
+                <input type="submit" value="Search" class="btn btn-default" />
+            </p>
+        </div>
+    </form>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Role
+                </th>
+                <th>
+                    Contract Type
+                </th>
+                <th>
+                    Salary
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Employees)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.roleName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.contractTypeName)
+                    </td>
+                    <td>
+                        @string.Format("{0:C}", item.AnnualSalary)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

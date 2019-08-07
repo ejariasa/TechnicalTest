@@ -1,0 +1,8 @@
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\Model\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\Model\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\Model\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\Model\bin\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\Model\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\Model\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\Model\obj\Debug\netcoreapp2.2\Models.dll
+C:\Users\earias\Documents\Personales\EmployeePortal\EmployeePortal\Model\obj\Debug\netcoreapp2.2\Models.pdb
